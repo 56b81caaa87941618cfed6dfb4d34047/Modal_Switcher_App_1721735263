@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on changing the background to yellow and red.",
+        "message_id": "guest23072024115015",
+        "timestamp": "23072024115017",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background and with two different colors yellow and red",
         "message_id": "guest23072024115015",
