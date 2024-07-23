@@ -36,5 +36,11 @@
         "content": "change the background and with two different colors yellow and red",
         "timestamp": "23072024115017",
         "message_id": "guest23072024115015"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on changing the background to yellow and red.",
+        "timestamp": "23072024115017",
+        "message_id": "guest23072024115015"
     }
 ]
