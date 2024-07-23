@@ -42,5 +42,11 @@
         "content": "Got it, working on changing the background to yellow and red.",
         "timestamp": "23072024115017",
         "message_id": "guest23072024115015"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want a solid background with a blend of yellow and red, or do you prefer separate sections for each color?\", \"option1\": \"A blended background color\", \"option2\": \"Separate sections for each color\"}, {\"question 2\": \"Should this color change apply to the entire app or specific pages/sections?\", \"option1\": \"Entire app\", \"option2\": \"Specific pages/sections\"}], \"input_token_count\": 310, \"output_token_count\": 100, \"time_taken\": \"0:00:04.849061\"}",
+        "timestamp": "23072024115023",
+        "message_id": "guest23072024115015"
     }
 ]
