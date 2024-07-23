@@ -2,7 +2,7 @@
 */
 Vue.component("simple_footer_component_1721735264", {
     template: `
-    <footer id="footer-section" class="flex-1 bg-purple-600 dark:bg-purple-900">
+    <footer id="footer-section" class="flex-1 bg-gradient-to-r from-yellow-400 to-red-500 dark:from-yellow-600 dark:to-red-700">
             <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
                 <hr id="footer-divider" class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
                 <div id="footer-content" class="text-center">
